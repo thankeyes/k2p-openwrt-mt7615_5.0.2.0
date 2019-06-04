@@ -2,7 +2,8 @@
 For openwrt 18.06
 Put directory mtk into /pacagke
 
-
+github仓库链接：https://github.com/MeIsReallyBa/k2p-openwrt-mt7615_5.0.2.0
+将github下载的压缩包解压，mtk整个文件夹放在根目录package文件夹下.
 
 Make menuconfig
 
